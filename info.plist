@@ -62,9 +62,9 @@
 				<key>scriptfile</key>
 				<string>runme.py</string>
 				<key>subtext</key>
-				<string></string>
+				<string>select result to open in browesr</string>
 				<key>title</key>
-				<string>type your query</string>
+				<string>your query</string>
 				<key>type</key>
 				<integer>8</integer>
 				<key>withspace</key>
