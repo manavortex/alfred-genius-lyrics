@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string></string>
+	<string>com.manavortex.telvanni</string>
+	<key>category</key>
+	<string>Internet</string>
 	<key>connections</key>
 	<dict>
 		<key>F10037EB-2688-4767-BFDD-931007451448</key>
@@ -21,13 +23,13 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>manavortex</string>
 	<key>description</key>
-	<string></string>
+	<string>searches genius.com für lyrics</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>search genius</string>
+	<string>Genius Lyric Search</string>
 	<key>objects</key>
 	<array>
 		<dict>
